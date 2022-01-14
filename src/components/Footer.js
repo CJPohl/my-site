@@ -23,7 +23,7 @@ export const Footer = (props) => {
                         <i className="far fa-envelope transition ease-in-out hover:scale-110 hover:rotate-180"></i>
                     </a>
                 </div>
-                <p className="text-center text-lg text-white/60">Crafted with my own two hands.  View the project's sourcecode <span className="text-white hover:underline"><a href="#" target="_blank" rel="noreferrer">here</a></span></p>
+                <p className="text-center text-lg text-white/60">Crafted with my own two hands.  View the project's sourcecode <span className="text-white hover:underline"><a href="https://github.com/CJPohl/my-site" target="_blank" rel="noreferrer">here</a></span></p>
                 <p className="text-sm text-white/60">Copyright @ 2021 Christopher J. Pohl</p>    
           </div>
       </footer>
