@@ -23,7 +23,7 @@ html {
 
 .spacer-background {
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
 }
 
@@ -58,6 +58,9 @@ html {
 }
 
 @media (min-width: 768px) {
+    .spacer-background {
+        background-attachment: fixed;
+    }
     .pixel {
         background-size: 40rem;
     }

@@ -3,9 +3,9 @@
   "name": "Christopher J. Pohl",
   "icons": [
     {
-      "src": "cjp-logo.png",
+      "src": "cjp-logo-icon.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "274x274"
     }
   ],
   "start_url": ".",
